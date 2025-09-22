@@ -35,16 +35,17 @@
   - Фактовая таблица **fact_transactions**, содержащая информацию о всех транзакциях с ключами на таблицы измерений
   - Измерения:
       - **clients** - справочник клиентов
-      - **transaction_types** - справочник типов транзакций
+      - **transaction_types**- справочник типов транзакций
       - **dates** - календарь по шагам (часы, дни недели, недели месяца)
 ## Таблицы фактов и измерений для БД хранятся на гугл диске: https://drive.google.com/drive/folders/1poCZl6WkuAf5IeXfT65Sl0jwLghnzYqV?usp=sharing
 ## 4. Загрузка данных в Postgres
 - Создала БД в Postgres и подключилась к ней через DBeaver
 - Создала таблицы измерений и фактов с ключами и ограничениями целосности, загрузила данные в таблицы и проверила их на корректность
 - Настроены FK:
-      - fact_transactions -> clients (orig\dest)
-      - fact_transactions -> transaction_types
-      - fact_transactions -> dates
+  - fact_transactions -> clients (orig\dest)
+  - fact_transactions -> transaction_types
+  - fact_transactions -> dates
+
 <img width="1079" height="231" alt="image" src="https://github.com/user-attachments/assets/ea98dc32-4018-4b6a-afb5-a7f11fe4797c" />
 
 - Для финансовых полей выбран тип NUMERIC(18,2), для флагов - BOOLEAN
