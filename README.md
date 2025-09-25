@@ -65,7 +65,8 @@
 - анализировать частоту и долю мошеннических операций
 - оценивать эффективность работы правил антифрод-системы.
 
-<img width="752" height="573" alt="image" src="https://github.com/user-attachments/assets/106e8c7c-641e-4b69-b6e0-15731d2f3b79" />
+<img width="1056" height="783" alt="image" src="https://github.com/user-attachments/assets/a26a54c0-adfd-4a3e-8be6-8a6e5fef9f88" />
+
 
 Далее я проверила витрину на корректность:
 - Сравнила количество строк с исходным датасетом.
