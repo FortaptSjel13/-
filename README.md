@@ -94,6 +94,10 @@
 
 <img width="391" height="443" alt="image" src="https://github.com/user-attachments/assets/c860fcf9-b0d4-4798-abf5-13138dbf40cf" />
 
+**Эффективность антифрод-системы**
+
+<img width="843" height="464" alt="image" src="https://github.com/user-attachments/assets/91d304bb-0921-46c2-8b9f-dd8b048c107c" />
+
 ## Инструменты
 - Python: pandas
 - PostgreSQL: создание БД и витрины
