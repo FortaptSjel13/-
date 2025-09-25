@@ -98,6 +98,10 @@
 
 <img width="843" height="464" alt="image" src="https://github.com/user-attachments/assets/91d304bb-0921-46c2-8b9f-dd8b048c107c" />
 
+**Топ-5 комбинаций по часу и типу операции с наибольшим количеством мошеннических операций**
+
+<img width="857" height="483" alt="image" src="https://github.com/user-attachments/assets/35533558-bae1-4287-89c3-ab8ac755edc3" />
+
 ## Инструменты
 - Python: pandas
 - PostgreSQL: создание БД и витрины
