@@ -55,7 +55,8 @@
 - Для финансовых полей выбран тип NUMERIC(18,2), для флагов - BOOLEAN
 - Добавлен surrogate key transaction_id SERIAL PRIMARY KEY
 
-<img width="512" height="560" alt="image" src="https://github.com/user-attachments/assets/7f6f2617-ed12-489e-84f1-06c1eaafcf7e" />
+<img width="898" height="540" alt="image" src="https://github.com/user-attachments/assets/7a5f2351-3790-435c-90ca-94ffff6fdb2b" />
+
 
 ## 5. Построение витрины и ее проверка
 ### Назничение витрины: 
